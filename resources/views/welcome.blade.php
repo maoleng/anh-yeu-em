@@ -1,13 +1,45 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
 <HEAD>
-    <TITLE> Heart </TITLE>
-    <META NAME="Generator" CONTENT="EditPlus">
-    <META NAME="Author" CONTENT="">
-    <META NAME="Keywords" CONTENT="">
-    <META NAME="Description" CONTENT="">
+    <meta name="title" content="Yêu em rất nhiều >,<" />
+    <meta name="description" content="Người ơi, em có biết anh đã yêu em rất nhiều, chẳng cần những lý lẽ để nói nên câu tình yêu, làm như không quan tâm nhưng anh thực sự nhớ em" />
+    <link rel="canonical" href="https://anhyeuem.xyz" />
+    <meta name="referrer" content="no-referrer-when-downgrade" />
 
+    <meta itemprop="name" content="Yêu em rất nhiều >,<">
+    <meta itemprop="description" content="Người ơi, em có biết anh đã yêu em rất nhiều, chẳng cần những lý lẽ để nói nên câu tình yêu, làm như không quan tâm nhưng anh thực sự nhớ em">
+    <meta name="robots" content="index,follow" />
 
+    <meta property="og:locale" content="vi_VN" />
+    <meta property="og:site_name" content="Yêu em rất nhiều >,<" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Yêu em rất nhiều >,<" />
+    <meta property="og:description" content="Người ơi, em có biết anh đã yêu em rất nhiều, chẳng cần những lý lẽ để nói nên câu tình yêu, làm như không quan tâm nhưng anh thực sự nhớ em" />
+    <meta property="og:url" content="https://anhyeuem.xyz" />
+    <meta property="og:image" content="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01gc989ns34a91rknz01sqg76c.jpg" />
+    <meta property="og:image:width" content="2000" />
+    <meta property="og:image:height" content="1335" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Yêu em rất nhiều >,<" />
+    <meta name="twitter:description" content="Người ơi, em có biết anh đã yêu em rất nhiều, chẳng cần những lý lẽ để nói nên câu tình yêu, làm như không quan tâm nhưng anh thực sự nhớ em" />
+    <meta name="twitter:url" content="https://anhyeuem.xyz" />
+    <meta name="twitter:image" content="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01gc989ns34a91rknz01sqg76c.jpg" />
+    <meta name="twitter:image:src" content="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01gc989ns34a91rknz01sqg76c.jpg">
+    <meta name="twitter:site" content="@maoleng14" />
+
+    <meta property="article:author" content="https://www.facebook.com/maoleng.bhl" />
+    <meta property="article:publisher" content="https://www.facebook.com/maoleng.bhl" />
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ECR188XG4V"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-ECR188XG4V');
+    </script>
     <style>
         html, body {
             height: 100%;
