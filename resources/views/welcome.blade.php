@@ -4,19 +4,19 @@
     <title>@if (isset($name))Yêu {{ $name }} nhứt >,<@else Yêu nhiềuuu <3 @endif</title>
     <link rel="icon" type="image/x-icon" href="{{ asset('love.ico') }}">
 
-    <meta name="title" content="Yêu em rất nhiều >,<" />
+    <meta name="title" content="Yêu {{ $name ?? 'em' }} rất nhiều >,<" />
     <meta name="description" content="Người ơi, em có biết anh đã yêu em rất nhiều, chẳng cần những lý lẽ để nói nên câu tình yêu, làm như không quan tâm nhưng anh thực sự nhớ em" />
     <link rel="canonical" href="https://anhyeuem.xyz" />
     <meta name="referrer" content="no-referrer-when-downgrade" />
 
-    <meta itemprop="name" content="Yêu em rất nhiều >,<">
+    <meta itemprop="name" content="Yêu {{ $name ?? 'em' }} rất nhiều >,<">
     <meta itemprop="description" content="Người ơi, em có biết anh đã yêu em rất nhiều, chẳng cần những lý lẽ để nói nên câu tình yêu, làm như không quan tâm nhưng anh thực sự nhớ em">
     <meta name="robots" content="index,follow" />
 
     <meta property="og:locale" content="vi_VN" />
-    <meta property="og:site_name" content="Yêu em rất nhiều >,<" />
+    <meta property="og:site_name" content="Yêu {{ $name ?? 'em' }} rất nhiều >,<" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Yêu em rất nhiều >,<" />
+    <meta property="og:title" content="Yêu {{ $name ?? 'em' }} rất nhiều >,<" />
     <meta property="og:description" content="Người ơi, em có biết anh đã yêu em rất nhiều, chẳng cần những lý lẽ để nói nên câu tình yêu, làm như không quan tâm nhưng anh thực sự nhớ em" />
     <meta property="og:url" content="https://anhyeuem.xyz" />
     <meta property="og:image" content="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01gc989ns34a91rknz01sqg76c.jpg" />
@@ -24,7 +24,7 @@
     <meta property="og:image:height" content="1335" />
 
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Yêu em rất nhiều >,<" />
+    <meta name="twitter:title" content="Yêu {{ $name ?? 'em' }} rất nhiều >,<" />
     <meta name="twitter:description" content="Người ơi, em có biết anh đã yêu em rất nhiều, chẳng cần những lý lẽ để nói nên câu tình yêu, làm như không quan tâm nhưng anh thực sự nhớ em" />
     <meta name="twitter:url" content="https://anhyeuem.xyz" />
     <meta name="twitter:image" content="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01gc989ns34a91rknz01sqg76c.jpg" />
