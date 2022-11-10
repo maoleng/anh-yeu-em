@@ -1,6 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
 <HEAD>
+    <title>@if (isset($name))Yêu {{ $name }} nhứt >,<@else Yêu nhiềuuu <3 @endif</title>
     <meta name="title" content="Yêu em rất nhiều >,<" />
     <meta name="description" content="Người ơi, em có biết anh đã yêu em rất nhiều, chẳng cần những lý lẽ để nói nên câu tình yêu, làm như không quan tâm nhưng anh thực sự nhớ em" />
     <link rel="canonical" href="https://anhyeuem.xyz" />
